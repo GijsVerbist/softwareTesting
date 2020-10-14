@@ -1,0 +1,11 @@
+C:\Users\gijsv\OneDrive\Documenten\AP\Software testing\Les 5 Unit Testing\Les 5 Unit Testing\bin\Debug\netcoreapp3.1\Les 5 Unit Testing.exe
+C:\Users\gijsv\OneDrive\Documenten\AP\Software testing\Les 5 Unit Testing\Les 5 Unit Testing\bin\Debug\netcoreapp3.1\Les 5 Unit Testing.deps.json
+C:\Users\gijsv\OneDrive\Documenten\AP\Software testing\Les 5 Unit Testing\Les 5 Unit Testing\bin\Debug\netcoreapp3.1\Les 5 Unit Testing.runtimeconfig.json
+C:\Users\gijsv\OneDrive\Documenten\AP\Software testing\Les 5 Unit Testing\Les 5 Unit Testing\bin\Debug\netcoreapp3.1\Les 5 Unit Testing.runtimeconfig.dev.json
+C:\Users\gijsv\OneDrive\Documenten\AP\Software testing\Les 5 Unit Testing\Les 5 Unit Testing\bin\Debug\netcoreapp3.1\Les 5 Unit Testing.dll
+C:\Users\gijsv\OneDrive\Documenten\AP\Software testing\Les 5 Unit Testing\Les 5 Unit Testing\bin\Debug\netcoreapp3.1\Les 5 Unit Testing.pdb
+C:\Users\gijsv\OneDrive\Documenten\AP\Software testing\Les 5 Unit Testing\Les 5 Unit Testing\obj\Debug\netcoreapp3.1\Les 5 Unit Testing.csprojAssemblyReference.cache
+C:\Users\gijsv\OneDrive\Documenten\AP\Software testing\Les 5 Unit Testing\Les 5 Unit Testing\obj\Debug\netcoreapp3.1\Les 5 Unit Testing.AssemblyInfoInputs.cache
+C:\Users\gijsv\OneDrive\Documenten\AP\Software testing\Les 5 Unit Testing\Les 5 Unit Testing\obj\Debug\netcoreapp3.1\Les 5 Unit Testing.AssemblyInfo.cs
+C:\Users\gijsv\OneDrive\Documenten\AP\Software testing\Les 5 Unit Testing\Les 5 Unit Testing\obj\Debug\netcoreapp3.1\Les 5 Unit Testing.dll
+C:\Users\gijsv\OneDrive\Documenten\AP\Software testing\Les 5 Unit Testing\Les 5 Unit Testing\obj\Debug\netcoreapp3.1\Les 5 Unit Testing.pdb

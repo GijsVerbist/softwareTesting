@@ -1,0 +1,22 @@
+D:\Dropbox\Dimitri\AP\Software Testing\Oefeningen Debugging\OefeningenDebugging\OefeningDebugging3\obj\Debug\netcoreapp3.1\OefeningDebugging3.csprojAssemblyReference.cache
+D:\Dropbox\Dimitri\AP\Software Testing\Oefeningen Debugging\OefeningenDebugging\OefeningDebugging3\obj\Debug\netcoreapp3.1\OefeningDebugging3.AssemblyInfoInputs.cache
+D:\Dropbox\Dimitri\AP\Software Testing\Oefeningen Debugging\OefeningenDebugging\OefeningDebugging3\obj\Debug\netcoreapp3.1\OefeningDebugging3.AssemblyInfo.cs
+D:\Dropbox\Dimitri\AP\Software Testing\Oefeningen Debugging\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.exe
+D:\Dropbox\Dimitri\AP\Software Testing\Oefeningen Debugging\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.deps.json
+D:\Dropbox\Dimitri\AP\Software Testing\Oefeningen Debugging\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.runtimeconfig.json
+D:\Dropbox\Dimitri\AP\Software Testing\Oefeningen Debugging\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.runtimeconfig.dev.json
+D:\Dropbox\Dimitri\AP\Software Testing\Oefeningen Debugging\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.dll
+D:\Dropbox\Dimitri\AP\Software Testing\Oefeningen Debugging\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.pdb
+D:\Dropbox\Dimitri\AP\Software Testing\Oefeningen Debugging\OefeningenDebugging\OefeningDebugging3\obj\Debug\netcoreapp3.1\OefeningDebugging3.dll
+D:\Dropbox\Dimitri\AP\Software Testing\Oefeningen Debugging\OefeningenDebugging\OefeningDebugging3\obj\Debug\netcoreapp3.1\OefeningDebugging3.pdb
+C:\Users\gijsv\Downloads\OefeningenDebugging (1)\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.exe
+C:\Users\gijsv\Downloads\OefeningenDebugging (1)\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.deps.json
+C:\Users\gijsv\Downloads\OefeningenDebugging (1)\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.runtimeconfig.json
+C:\Users\gijsv\Downloads\OefeningenDebugging (1)\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.runtimeconfig.dev.json
+C:\Users\gijsv\Downloads\OefeningenDebugging (1)\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.dll
+C:\Users\gijsv\Downloads\OefeningenDebugging (1)\OefeningenDebugging\OefeningDebugging3\bin\Debug\netcoreapp3.1\OefeningDebugging3.pdb
+C:\Users\gijsv\Downloads\OefeningenDebugging (1)\OefeningenDebugging\OefeningDebugging3\obj\Debug\netcoreapp3.1\OefeningDebugging3.csprojAssemblyReference.cache
+C:\Users\gijsv\Downloads\OefeningenDebugging (1)\OefeningenDebugging\OefeningDebugging3\obj\Debug\netcoreapp3.1\OefeningDebugging3.AssemblyInfoInputs.cache
+C:\Users\gijsv\Downloads\OefeningenDebugging (1)\OefeningenDebugging\OefeningDebugging3\obj\Debug\netcoreapp3.1\OefeningDebugging3.AssemblyInfo.cs
+C:\Users\gijsv\Downloads\OefeningenDebugging (1)\OefeningenDebugging\OefeningDebugging3\obj\Debug\netcoreapp3.1\OefeningDebugging3.dll
+C:\Users\gijsv\Downloads\OefeningenDebugging (1)\OefeningenDebugging\OefeningDebugging3\obj\Debug\netcoreapp3.1\OefeningDebugging3.pdb
