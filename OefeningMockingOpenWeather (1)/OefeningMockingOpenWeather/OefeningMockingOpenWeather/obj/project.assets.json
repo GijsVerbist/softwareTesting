@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gijsv\\Downloads\\OefeningMockingOpenWeather (1)\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather.csproj",
+      "projectUniqueName": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\OefeningMockingOpenWeather (1)\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather.csproj",
       "projectName": "OefeningMockingOpenWeather",
-      "projectPath": "C:\\Users\\gijsv\\Downloads\\OefeningMockingOpenWeather (1)\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather.csproj",
+      "projectPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\OefeningMockingOpenWeather (1)\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather.csproj",
       "packagesPath": "C:\\Users\\gijsv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gijsv\\Downloads\\OefeningMockingOpenWeather (1)\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\obj\\",
+      "outputPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\OefeningMockingOpenWeather (1)\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

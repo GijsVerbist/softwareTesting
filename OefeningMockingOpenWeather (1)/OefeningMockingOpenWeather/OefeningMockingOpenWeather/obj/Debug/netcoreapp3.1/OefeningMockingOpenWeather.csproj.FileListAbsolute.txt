@@ -15,3 +15,16 @@ C:\Users\gijsv\Downloads\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeath
 C:\Users\gijsv\Downloads\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.csproj.CopyComplete
 C:\Users\gijsv\Downloads\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.dll
 C:\Users\gijsv\Downloads\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.pdb
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.exe
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.deps.json
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.runtimeconfig.json
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.runtimeconfig.dev.json
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.dll
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.pdb
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.csprojAssemblyReference.cache
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.AssemblyInfoInputs.cache
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.AssemblyInfo.cs
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.csproj.CopyComplete
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.dll
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\OefeningMockingOpenWeather (1)\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.pdb

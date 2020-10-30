@@ -6907,11 +6907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gijsv\\Downloads\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekendTests\\OefeningMockingWeekendTests.csproj",
+      "projectUniqueName": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\OefeningMockingWeekend\\OefeningMockingWeekendTests\\OefeningMockingWeekendTests.csproj",
       "projectName": "OefeningMockingWeekendTests",
-      "projectPath": "C:\\Users\\gijsv\\Downloads\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekendTests\\OefeningMockingWeekendTests.csproj",
+      "projectPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\OefeningMockingWeekend\\OefeningMockingWeekendTests\\OefeningMockingWeekendTests.csproj",
       "packagesPath": "C:\\Users\\gijsv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gijsv\\Downloads\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekendTests\\obj\\",
+      "outputPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\OefeningMockingWeekend\\OefeningMockingWeekendTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6930,8 +6930,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\gijsv\\Downloads\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend.csproj": {
-              "projectPath": "C:\\Users\\gijsv\\Downloads\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend.csproj"
+            "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend.csproj": {
+              "projectPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend.csproj"
             }
           }
         }

@@ -5029,11 +5029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gijsv\\Downloads\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend.csproj",
+      "projectUniqueName": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend.csproj",
       "projectName": "OefeningMockingWeekend",
-      "projectPath": "C:\\Users\\gijsv\\Downloads\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend.csproj",
+      "projectPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend.csproj",
       "packagesPath": "C:\\Users\\gijsv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gijsv\\Downloads\\OefeningMockingWeekend\\OefeningMockingWeekend\\OefeningMockingWeekend\\obj\\",
+      "outputPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\OefeningMockingWeekend\\OefeningMockingWeekend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
