@@ -1,0 +1,8 @@
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.deps.json
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.dll
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.pdb
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.csprojAssemblyReference.cache
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.AssemblyInfoInputs.cache
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.AssemblyInfo.cs
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.dll
+C:\Users\gijsv\OneDrive\Documenten\AP\software testing REPO\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.pdb
