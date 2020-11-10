@@ -2,25 +2,39 @@ using NUnit.Framework;
 
 namespace BowlingGameScoreTests
 {
-    public class Tests
+    public class BowlingGameScoreTests
     {
+        private BowlingGame game;
         [SetUp]
         public void Setup()
         {
+            game = new BowlingGame();
         }
 
-        [Test]
-        public void When_Roll_GlutterGame_Returns_0()
+        private void RollMant(int rools, int pins)
         {
-            var bowlingGame = new BowlingGame();
             int counter = 0;
             do
             {
-                bowlingGame.Roll(0);
+                game.Roll(pins);
                 counter++;
-            } while (counter <= 20);
+            } while (counter <= rools-1);
+        }
+        [Test]
+        public void When_Roll_GlutterGame_Returns_0()
+        {
 
-            Assert.AreEqual(0, bowlingGame.Score);
+            RollMant(20, 0);
+
+            Assert.AreEqual(0, game.Score);
+        }
+        [Test]
+        public void When_Roll_AllOnes_Returns_20()
+        {
+
+            RollMant(20, 1);
+
+            Assert.AreEqual(20, game.Score);
         }
     }
 }
