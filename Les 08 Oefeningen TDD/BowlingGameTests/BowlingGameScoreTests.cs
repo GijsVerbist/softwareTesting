@@ -1,5 +1,8 @@
+using BowlingGameScore;
 using NUnit.Framework;
-
+using System;
+using System.Collections.Generic;
+using System.Text;
 namespace BowlingGameScoreTests
 {
     public class BowlingGameScoreTests
@@ -11,20 +14,18 @@ namespace BowlingGameScoreTests
             game = new BowlingGame();
         }
 
-        private void RollMant(int rools, int pins)
+        private void RollMant(int pins, int rools)
         {
-            int counter = 0;
-            do
+            for (var i = 0; i < rools; i++)
             {
                 game.Roll(pins);
-                counter++;
-            } while (counter <= rools-1);
+            }
         }
         [Test]
         public void When_Roll_GlutterGame_Returns_0()
         {
 
-            RollMant(20, 0);
+            RollMant(0, 20);
 
             Assert.AreEqual(0, game.Score);
         }
@@ -32,9 +33,20 @@ namespace BowlingGameScoreTests
         public void When_Roll_AllOnes_Returns_20()
         {
 
-            RollMant(20, 1);
+            RollMant(1, 20);
 
             Assert.AreEqual(20, game.Score);
+        }
+        [Test]
+        public void When_Roll_SpareAndThree_Returns_16()
+        {
+
+            game.Roll(5);
+            game.Roll(5);
+            game.Roll(3);
+            RollMant(0, 17);
+
+            Assert.AreEqual(16, game.Score);
         }
     }
 }

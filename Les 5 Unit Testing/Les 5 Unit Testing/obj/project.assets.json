@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\Software testing\\Les 5 Unit Testing\\Les 5 Unit Testing\\Les 5 Unit Testing.csproj",
+      "projectUniqueName": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\Les 5 Unit Testing\\Les 5 Unit Testing\\Les 5 Unit Testing.csproj",
       "projectName": "Les 5 Unit Testing",
-      "projectPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\Software testing\\Les 5 Unit Testing\\Les 5 Unit Testing\\Les 5 Unit Testing.csproj",
+      "projectPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\Les 5 Unit Testing\\Les 5 Unit Testing\\Les 5 Unit Testing.csproj",
       "packagesPath": "C:\\Users\\gijsv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\Software testing\\Les 5 Unit Testing\\Les 5 Unit Testing\\obj\\",
+      "outputPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\Les 5 Unit Testing\\Les 5 Unit Testing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

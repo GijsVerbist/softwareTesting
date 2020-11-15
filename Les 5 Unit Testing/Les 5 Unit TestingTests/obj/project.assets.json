@@ -6818,11 +6818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\Software testing\\Les 5 Unit Testing\\Les 5 Unit TestingTests\\Les 5 Unit TestingTests.csproj",
+      "projectUniqueName": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\Les 5 Unit Testing\\Les 5 Unit TestingTests\\Les 5 Unit TestingTests.csproj",
       "projectName": "Les 5 Unit TestingTests",
-      "projectPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\Software testing\\Les 5 Unit Testing\\Les 5 Unit TestingTests\\Les 5 Unit TestingTests.csproj",
+      "projectPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\Les 5 Unit Testing\\Les 5 Unit TestingTests\\Les 5 Unit TestingTests.csproj",
       "packagesPath": "C:\\Users\\gijsv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\Software testing\\Les 5 Unit Testing\\Les 5 Unit TestingTests\\obj\\",
+      "outputPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\Les 5 Unit Testing\\Les 5 Unit TestingTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6841,8 +6841,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\Software testing\\Les 5 Unit Testing\\Les 5 Unit Testing\\Les 5 Unit Testing.csproj": {
-              "projectPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\Software testing\\Les 5 Unit Testing\\Les 5 Unit Testing\\Les 5 Unit Testing.csproj"
+            "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\Les 5 Unit Testing\\Les 5 Unit Testing\\Les 5 Unit Testing.csproj": {
+              "projectPath": "C:\\Users\\gijsv\\OneDrive\\Documenten\\AP\\software testing REPO\\Les 5 Unit Testing\\Les 5 Unit Testing\\Les 5 Unit Testing.csproj"
             }
           }
         }
