@@ -17,16 +17,25 @@ namespace BowlingGameScore
                 int rollIndex = 0;
                 for (int frame = 0; frame < 10; frame++) // loop over het aantal worpen
                 {
-                    if(pins[rollIndex] + pins[rollIndex + 1] == 10)
+
+                    if (pins[rollIndex] == 10)
                     {
                         score += pins[rollIndex] + pins[rollIndex + 1] + pins[rollIndex + 2];
+                        rollIndex++;
+                    }
+
+                    else if (pins[rollIndex] + pins[rollIndex + 1] == 10)
+                    {
+                        score += pins[rollIndex] + pins[rollIndex + 1] + pins[rollIndex + 2];
+                        rollIndex += 2;
                     }
                     else
                     {
                         score += pins[rollIndex] + pins[rollIndex + 1];
+                        rollIndex += 2;
                     }
-                    
-                    rollIndex += 2;
+
+
                 }
 
                 return score;
